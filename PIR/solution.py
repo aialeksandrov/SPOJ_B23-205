@@ -1,4 +1,4 @@
-# PIR task solution. Ещё не решил эту задачу
+# PIR task solution. Solved
 # I can use Github right now.
 
 from math import sqrt
