@@ -1,4 +1,5 @@
 # PIR task solution
+# I can use Github right now.
 
 from math import sqrt
 t = int(input())
